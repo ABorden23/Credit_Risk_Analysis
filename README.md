@@ -43,7 +43,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 
 
 
-## Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk
+## Use the SMOTEENN algorithm to Predict Credit Risk
 
 SMOTEEN Algorithm
 
@@ -58,7 +58,7 @@ Combination (Over and Under) Sampling
 ![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/Combination%20(Over%20and%20Under)%20Sampling_inbalanced_classification_report.png)
 
 
-## Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
+## Use Ensemble Classifiers to Predict Credit Risk
 
 
 ### BalancedRandomForestClassifier
@@ -86,9 +86,9 @@ Included below:
 ![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/EasyEnsembleClassifier_jupyer_notebook.png)
 
 
-There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
-
 # Summary:
+
+
 
 There is a summary of the results (2 pt)
 There is a recommendation on which model to use, or there is no recommendation with a justification (3 
