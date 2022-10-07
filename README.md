@@ -47,7 +47,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 
 SMOTEEN Algorithm
 
-* Accuracy Score:
+* Accuracy Score: 84.40% (0.8440938486973113)
 
 * Confusion Matrix:<br>
 Combination (Over and Under) Sampling
