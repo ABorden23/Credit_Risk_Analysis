@@ -33,7 +33,11 @@ Combination (Over and Under) Sampling
 
 BalancedRandomForestClassifier
 
+![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/Balanced_Random_Forest_Classifier_jupyter_notebook.png)
+
 EasyEnsembleClassifier
+
+![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/EasyEnsembleClassifier_jupyer_notebook.png)
 
 # Results:
 
