@@ -30,7 +30,7 @@ Use resampling Models to Predict Credit Risk
 ![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/SMOTE_Oversampling_confusion_matrix.png)
 * Imbalanced Classification Report:
 
-### Cluster Centroids
+### Cluster Centroids (Undersampling)
 
 ![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/ClusterCentroids_confusion_matrix.png)
 
