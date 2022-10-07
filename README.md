@@ -10,15 +10,15 @@ Use resampling Models to Predict Credit Risk
 
 ## Six Machine Learning Models
 
-
-
 ### RandomOverSampler
 
 ![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/Oversampling_Oversampling_confusion_matrix.png)
 
 * Accuracy Score: 83.25% (0.8325468421491353)
+
 * Confusion Matrix: <br> 
 ![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/Oversampling_Oversampling_confusion_matrix.png)
+
 * Imbalanced Classification Report: <br> 
 ![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/random_oversampling_icr.png)
 
@@ -34,8 +34,6 @@ Use resampling Models to Predict Credit Risk
 
 ### Cluster Centroids (Undersampling)
 
-
-
 * Accuracy Score: 84.40% (0.8440938486973113)
 
 * Confusion Matrix:<br> 
@@ -49,18 +47,19 @@ Use resampling Models to Predict Credit Risk
 
 ## Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk
 
+* Accuracy Score:
 
+* Confusion Matrix:<br>
+Combination (Over and Under) Sampling
 
+![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/Combination_Over_and_Under_Sampling_confusion_matrix.png)
 
-
-
+* Imbalanced Classification Report:<br>
 
 
 ## Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 
-Combination (Over and Under) Sampling
 
-![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/Combination_Over_and_Under_Sampling_confusion_matrix.png)
 
 BalancedRandomForestClassifier
 
