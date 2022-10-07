@@ -101,16 +101,13 @@ As far as the Six Machine Learning models we created Random Sampler scored 83.25
 The EasyEnsembleClassifier performed the best with a Accuracy Score of 93.19% (0.9319231677611166). The EasyEnsembleClassifier would be my recommendation on which model to using Ensemble Classifiers. 
 
 
-There is a summary of the results (2 pt)
-There is a recommendation on which model to use, or there is no recommendation with a justification (3
 
+ ### Machine Learning Libraries Used:
 
-## _Machine Learning Libraries Used:_
+* scikit-learn
+* imbalanced-learn
 
-_* scikit-learn
-_* imbalanced-learn_
+### Software Used:
 
-Software Used:
-
-_* Jupyter Notebook_
-_* VSC Code__
+* Jupyter Notebook
+* VSC Code
