@@ -19,24 +19,31 @@ Use resampling Models to Predict Credit Risk
 * Accuracy Score: 83.25% (0.8325468421491353)
 * Confusion Matrix: <br> 
 ![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/Oversampling_Oversampling_confusion_matrix.png)
-* Imbalanced Classification Report: 
+* Imbalanced Classification Report: <br> 
+![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/random_oversampling_icr.png)
 
 ### SMOTE
 
+* Accuracy Score: 84.40% (0.8440938486973113)
 
-
-* Accuracy Score: 
 * Confusion Matrix:<br> 
 ![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/SMOTE_Oversampling_confusion_matrix.png)
-* Imbalanced Classification Report:
+
+* Imbalanced Classification Report:<br> 
+![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/SMOTE_inbalanced_classification_report.png)
 
 ### Cluster Centroids (Undersampling)
 
+
+
+* Accuracy Score: 84.40% (0.8440938486973113)
+
+* Confusion Matrix:<br> 
 ![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/ClusterCentroids_confusion_matrix.png)
 
-* Accuracy Score: 
-* Confusion Matrix:<br> 
-* Imbalanced Classification Report:
+* Imbalanced Classification Report:<br> 
+
+![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/Undersampling_inbalanced_classification_report.pnng.png)
 
 
 
