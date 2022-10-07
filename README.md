@@ -27,7 +27,13 @@ Cluster Centroids
 
 ![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/ClusterCentroids_confusion_matrix.png)
 
+Combination (Over and Under) Sampling
 
+![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/Combination_Over_and_Under_Sampling_confusion_matrix.png)
+
+BalancedRandomForestClassifier
+
+EasyEnsembleClassifier
 
 # Results:
 
