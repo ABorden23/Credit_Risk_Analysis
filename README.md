@@ -18,24 +18,47 @@ Accuracy Score:
 Confusion Matrix:
 Imbalanced Classification Report:
 
-### Oversampling 
+<!-- ### Oversampling 
 
-![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/Oversampling_Oversampling_confusion_matrix.png)
+![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/Oversampling_Oversampling_confusion_matrix.png) -->
 
 ### RandomOverSampler
 
 ![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/Oversampling_Oversampling_confusion_matrix.png)
 
+Accuracy Score: 
+Confusion Matrix:
+Imbalanced Classification Report:
+
 ### SMOTE
 
 ![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/SMOTE_Oversampling_confusion_matrix.png)
 
+Accuracy Score: 
+Confusion Matrix:
+Imbalanced Classification Report:
 
 ### Cluster Centroids
 
 ![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/ClusterCentroids_confusion_matrix.png)
 
+Accuracy Score: 
+Confusion Matrix:
+Imbalanced Classification Report:
 
+
+
+
+
+
+
+
+
+
+
+
+
+Deliverable 3 
 
 Combination (Over and Under) Sampling
 
