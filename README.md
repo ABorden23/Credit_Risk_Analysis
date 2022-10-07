@@ -25,6 +25,9 @@ SMOTE
 
 Cluster Centroids
 
+![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/ClusterCentroids_confusion_matrix.png)
+
+
 
 # Results:
 
