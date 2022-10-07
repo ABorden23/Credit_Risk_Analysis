@@ -2,7 +2,20 @@
 
 # Overview of the loan prediction risk analysis:
 
-The purpose of this analysis is well defined (4 pt)
+Standard Scale our X_Encoded feature matrix
+
+Use resampling Models to Predict Credit Risk 
+
+High Risk Low Risk Confusion Matrix
+
+![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/High_Risk_Low_Risk_confusion_matrix.png)
+
+RandomOverSampler
+
+SMOTE
+
+Cluster Centroids
+
 
 # Results:
 
