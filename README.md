@@ -105,12 +105,12 @@ There is a summary of the results (2 pt)
 There is a recommendation on which model to use, or there is no recommendation with a justification (3
 
 
-Machine Learning Libraries Used:
+## _Machine Learning Libraries Used:_
 
-* scikit-learn
-* imbalanced-learn
+_* scikit-learn
+_* imbalanced-learn_
 
 Software Used:
 
-* Jupyter Notebook
-* VSC Code
+_* Jupyter Notebook_
+_* VSC Code__
