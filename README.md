@@ -94,16 +94,15 @@ Included below:
 
 ![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/EasyEnsembleClassifier_jupyer_notebook.png)
 
-
 # Summary:
 
-As far as the Six Machine Learning models we created 
+As far as the Six Machine Learning models we created Random Sampler scored 83.25%, our SMOTE scored 84.40% and Cluster Centroids (Undersampling) scored a 84.40%.
 
 The EasyEnsembleClassifier performed the best with a Accuracy Score of 93.19% (0.9319231677611166). The EasyEnsembleClassifier would be my recommendation on which model to using Ensemble Classifiers. 
 
 
 There is a summary of the results (2 pt)
-There is a recommendation on which model to use, or there is no recommendation with a justification (3 
+There is a recommendation on which model to use, or there is no recommendation with a justification (3
 
 
 Machine Learning Libraries Used:
@@ -115,25 +114,3 @@ Software Used:
 
 * Jupyter Notebook
 * VSC Code
-
-
-
-
-
-
-
-
-
-
-
-<!-- ### High Risk Low Risk Confusion Matrix
-
-![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/High_Risk_Low_Risk_confusion_matrix.png)
-
-* Accuracy Score: 
-* Confusion Matrix:
-* Imbalanced Classification Report: -->
-
-<!-- ### Oversampling 
-
-![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/Oversampling_Oversampling_confusion_matrix.png) -->
