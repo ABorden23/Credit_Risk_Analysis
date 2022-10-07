@@ -2,9 +2,7 @@
 
 # Overview of the loan prediction risk analysis:
 
-Standard Scale our X_Encoded feature matrix
-
-Use resampling Models to Predict Credit Risk 
+Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Jill a client asks me to use imbalanced-learn and scikit-learn libraries to build and evaluate models using resampling. Here is the results...
 
 # Results:
 
@@ -96,7 +94,15 @@ There is a summary of the results (2 pt)
 There is a recommendation on which model to use, or there is no recommendation with a justification (3 
 
 
+Machine Learning Libraries Used:
 
+* scikit-learn
+* imbalanced-learn
+
+Software Used:
+
+* Jupyter Notebook
+* VSC Code
 
 
 
