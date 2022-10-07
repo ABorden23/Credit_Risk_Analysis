@@ -47,6 +47,8 @@ Use resampling Models to Predict Credit Risk
 
 ## Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk
 
+SMOTEEN Algorithm
+
 * Accuracy Score:
 
 * Confusion Matrix:<br>
@@ -55,17 +57,33 @@ Combination (Over and Under) Sampling
 ![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/Combination_Over_and_Under_Sampling_confusion_matrix.png)
 
 * Imbalanced Classification Report:<br>
+![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/Combination%20(Over%20and%20Under)%20Sampling_inbalanced_classification_report.png)
 
 
 ## Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 
 
+### BalancedRandomForestClassifier
 
-BalancedRandomForestClassifier
+* Accuracy Score: 75.9% (0.759)
+
+Included below:
+
+* Confusion Matrix:
+
+* Imbalanced Classification Report:
 
 ![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/Balanced_Random_Forest_Classifier_jupyter_notebook.png)
 
-EasyEnsembleClassifier
+### EasyEnsembleClassifier
+
+* Accuracy Score: 93.19% (0.9319231677611166)
+
+Included below:
+
+* Confusion Matrix:
+
+* Imbalanced Classification Report:
 
 ![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/EasyEnsembleClassifier_jupyer_notebook.png)
 
