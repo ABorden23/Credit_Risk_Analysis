@@ -6,26 +6,36 @@ Standard Scale our X_Encoded feature matrix
 
 Use resampling Models to Predict Credit Risk 
 
-High Risk Low Risk Confusion Matrix
+# Results:
+
+## Six Machine Learning Models
+
+### High Risk Low Risk Confusion Matrix
 
 ![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/High_Risk_Low_Risk_confusion_matrix.png)
 
-Oversampling 
+Accuracy Score: 
+Confusion Matrix:
+Imbalanced Classification Report:
+
+### Oversampling 
 
 ![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/Oversampling_Oversampling_confusion_matrix.png)
 
-RandomOverSampler
+### RandomOverSampler
 
 ![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/Oversampling_Oversampling_confusion_matrix.png)
 
-SMOTE
+### SMOTE
 
 ![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/SMOTE_Oversampling_confusion_matrix.png)
 
 
-Cluster Centroids
+### Cluster Centroids
 
 ![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/ClusterCentroids_confusion_matrix.png)
+
+
 
 Combination (Over and Under) Sampling
 
@@ -39,7 +49,6 @@ EasyEnsembleClassifier
 
 ![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/EasyEnsembleClassifier_jupyer_notebook.png)
 
-# Results:
 
 There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
 
