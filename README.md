@@ -2,7 +2,16 @@
 
 # Overview of the loan prediction risk analysis:
 
-Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Jill a client asks me to use imbalanced-learn and scikit-learn libraries to build and evaluate models using resampling. Here is the results...
+Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Jill a client asks me to use imbalanced-learn and scikit-learn libraries to build and evaluate models using resampling. 
+
+First the steps were to Read the CSV and Perform Basic Data Cleaning and then Split the Data into Training and Testing. We named the new data clean_loans.csv.
+
+The next steps were to create Six Machine Learning Models with Oversampling, SMOTE Oversampling, Undersampling(Cluster Centroids), Combination (Over and Under) Sampling (SMOTEEN), and our two Ensemble Learners (Balanced Random Forest Classifier and Easy Ensemble Classifier)
+
+
+
+
+Here is the results...
 
 # Results:
 
@@ -88,6 +97,9 @@ Included below:
 
 # Summary:
 
+As far as the Six Machine Learning models we created 
+
+The EasyEnsembleClassifier performed the best with a Accuracy Score of 93.19% (0.9319231677611166). The EasyEnsembleClassifier would be my recommendation on which model to using Ensemble Classifiers. 
 
 
 There is a summary of the results (2 pt)
