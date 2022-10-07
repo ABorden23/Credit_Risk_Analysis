@@ -10,17 +10,7 @@ Use resampling Models to Predict Credit Risk
 
 ## Six Machine Learning Models
 
-<!-- ### High Risk Low Risk Confusion Matrix
 
-![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/High_Risk_Low_Risk_confusion_matrix.png)
-
-* Accuracy Score: 
-* Confusion Matrix:
-* Imbalanced Classification Report: -->
-
-<!-- ### Oversampling 
-
-![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/Oversampling_Oversampling_confusion_matrix.png) -->
 
 ### RandomOverSampler
 
@@ -29,14 +19,15 @@ Use resampling Models to Predict Credit Risk
 * Accuracy Score: 83.25% (0.8325468421491353)
 * Confusion Matrix: <br> 
 ![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/Oversampling_Oversampling_confusion_matrix.png)
-* Imbalanced Classification Report:
+* Imbalanced Classification Report: 
 
 ### SMOTE
 
-![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/SMOTE_Oversampling_confusion_matrix.png)
+
 
 * Accuracy Score: 
-* Confusion Matrix:
+* Confusion Matrix:<br> 
+![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/SMOTE_Oversampling_confusion_matrix.png)
 * Imbalanced Classification Report:
 
 ### Cluster Centroids
@@ -44,7 +35,7 @@ Use resampling Models to Predict Credit Risk
 ![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/ClusterCentroids_confusion_matrix.png)
 
 * Accuracy Score: 
-* Confusion Matrix:
+* Confusion Matrix:<br> 
 * Imbalanced Classification Report:
 
 
@@ -79,3 +70,28 @@ There is a bulleted list that describes the balanced accuracy score and the prec
 
 There is a summary of the results (2 pt)
 There is a recommendation on which model to use, or there is no recommendation with a justification (3 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ### High Risk Low Risk Confusion Matrix
+
+![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/High_Risk_Low_Risk_confusion_matrix.png)
+
+* Accuracy Score: 
+* Confusion Matrix:
+* Imbalanced Classification Report: -->
+
+<!-- ### Oversampling 
+
+![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/Oversampling_Oversampling_confusion_matrix.png) -->
