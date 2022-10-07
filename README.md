@@ -14,9 +14,9 @@ Use resampling Models to Predict Credit Risk
 
 ![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/High_Risk_Low_Risk_confusion_matrix.png)
 
-Accuracy Score: 
-Confusion Matrix:
-Imbalanced Classification Report:
+* Accuracy Score: 
+* Confusion Matrix:
+* Imbalanced Classification Report:
 
 <!-- ### Oversampling 
 
@@ -26,25 +26,29 @@ Imbalanced Classification Report:
 
 ![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/Oversampling_Oversampling_confusion_matrix.png)
 
-Accuracy Score: 
-Confusion Matrix:
-Imbalanced Classification Report:
+* Accuracy Score: 
+* Confusion Matrix:
+* Imbalanced Classification Report:
 
 ### SMOTE
 
 ![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/SMOTE_Oversampling_confusion_matrix.png)
 
-Accuracy Score: 
-Confusion Matrix:
-Imbalanced Classification Report:
+* Accuracy Score: 
+* Confusion Matrix:
+* Imbalanced Classification Report:
 
 ### Cluster Centroids
 
 ![This is an image](https://github.com/ABorden23/Credit_Risk_Analysis/blob/main/Resources/ClusterCentroids_confusion_matrix.png)
 
-Accuracy Score: 
-Confusion Matrix:
-Imbalanced Classification Report:
+* Accuracy Score: 
+* Confusion Matrix:
+* Imbalanced Classification Report:
+
+
+
+## Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk
 
 
 
@@ -53,12 +57,7 @@ Imbalanced Classification Report:
 
 
 
-
-
-
-
-
-Deliverable 3 
+## Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 
 Combination (Over and Under) Sampling
 
