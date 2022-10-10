@@ -110,4 +110,4 @@ The EasyEnsembleClassifier performed the best with a Accuracy Score of 93.19% (0
 ### Software Used:
 
 * Jupyter Notebook
-* VSC Code
+* VS Code
